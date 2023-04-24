@@ -1,0 +1,29 @@
+p{
+    font-weight: bolder;
+    font-size: 30px;
+    text-align: center;
+}
+#top{
+    text-decoration: underline;
+    text-align: center;
+}
+body{
+    background-color: lightgrey;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 7px solid gray;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
+ol{
+    list-style-position: inside;
+    text-align: center;
+}
+ul{
+    list-style-position: inside;
+    text-align: center;
+}
+li{
+    list-style-position: inside;
+    text-align: center;
+}
